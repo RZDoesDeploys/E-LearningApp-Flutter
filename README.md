@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The PDFs I utilized for this project were prepared by CodeWithHarry. You can find those PDFs in his website.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
