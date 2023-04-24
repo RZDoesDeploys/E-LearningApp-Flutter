@@ -1,0 +1,38 @@
+name: elearingapp
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  page_transition: ^2.0.9
+  youtube_player_flutter: ^8.1.2
+  syncfusion_flutter_pdfviewer: ^21.1.39
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  assets:
+    - images/
+    - pdf/
+    - pdf/c_lang.pdf
+    - pdf/cpp.pdf
+    - pdf/css.pdf
+    - pdf/html.pdf
+    - pdf/java.pdf
+    - pdf/js.pdf
+    - pdf/python.pdf
+    
+  uses-material-design: true
