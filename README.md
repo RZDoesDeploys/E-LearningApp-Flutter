@@ -4,6 +4,8 @@ A new Flutter project.
 
 The PDFs I utilized for this project were prepared by CodeWithHarry. You can find those PDFs in his website.
 
+You may find the apk in the [releases](https://github.com/RikinZala25/E-LearningApp-Flutter/releases/tag/E-learningApp) or in [Mega](https://mega.nz/folder/vfRXBaxL#n0qwWzcU3jXQM9Bz48fuzg).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
